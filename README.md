@@ -8,6 +8,17 @@ I am a developer who is passionate about stuff like Full Stack Development. Few 
 - 👍 Looking for opportunities to join as an intern/full time in  fullstack development. 
 - 🌐 Visit my [porfolio website](https://rashidmakki.netlify.app/) for complete background and contact.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+### Hi there, I'm [Rashid!](https://rashidmakki.github.io) 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rashidmakki&show_icons=true&theme=radical" alt="Rashid's github stats" /></a>
+
 
 
 
