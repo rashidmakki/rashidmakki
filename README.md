@@ -19,7 +19,7 @@ I am a developer who is passionate about stuff like Full Stack Development. Few 
 
 <a href="https://github.com/rashidmakki"><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rashidmakki&show_icons=true&theme=radical" alt="Rashid's github stats" /></a>
 
-<a href="https://github.com/rashidmakki"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidmakki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" alt="Rashid's github stats" /></a>
+<a href="https://github.com/rashidmakki"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidmakki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" alt="Rashid's github stats" /></a>
 
 
 
