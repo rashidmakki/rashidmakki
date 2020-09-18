@@ -16,9 +16,10 @@ I am a developer who is passionate about stuff like Full Stack Development. Few 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Hi there, I'm [Rashid!](https://rashidmakki.github.io) 👋
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rashidmakki&show_icons=true&theme=radical" alt="Rashid's github stats" /></a>
 
+<a href="https://github.com/rashidmakki"><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rashidmakki&show_icons=true&theme=radical" alt="Rashid's github stats" /></a>
+
+<a href="https://github.com/rashidmakki"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidmakki&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="Rashid's github stats" /></a>
 
 
 
