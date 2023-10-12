@@ -16,6 +16,7 @@ I am a software developer with 1.5 years of full-stack development experience. S
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="./assets/psql.png"></code>
+<code><img height="30" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo-1024x640.png"></code>
 
 ### Hi there, I'm [Rashid!](https://rashidmakki.netlify.app/) 👋
 
