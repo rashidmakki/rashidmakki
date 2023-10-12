@@ -11,12 +11,16 @@ I am a software developer with 1.5 years of full-stack development experience. S
 
 **Languages and Tools:**  
 
+<code><img height="30" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo-1024x640.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="./assets/redux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="./assets/psql.png"></code>
-<code><img height="30" src="https://ubiqum.com/assets/uploads/2021/12/learn-java-with-ubiqum-logo-1024x640.png"></code>
+<code><img height="30" src="https://www.techasoft.com/debug/img/oracle.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG0jc6Q9k2g3X3VJUdI-c3DfCkXccC-5BR7AdNZyaKedw-2x_ZnEFSKVoKXgo-jIQYvUg&usqp=CAU"></code>
+<code><img height="30" src="https://yt3.googleusercontent.com/ytc/APkrFKawpJcW83itboQ9uBUgLoqVnZcFXJtkD74yyhZUGQ=s900-c-k-c0x00ffffff-no-rj"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"></code>
 
 ### Hi there, I'm [Rashid!](https://rashidmakki.netlify.app/) 👋
 
