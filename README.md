@@ -1,6 +1,7 @@
 ## Hi 👋 I am Rashid Makki! 
 
-I am a developer who is passionate about stuff like Full Stack Development. Few tech that I enjoy working in are React, Redux , React Native , BootStrap, Node.js, PostgreSQL. I am actively looking for opportunities in Full Stack Development. 
+I am a software developer with 1.5 years of full-stack development experience. Skilled in problem-solving and passionate about innovation. Seeking a challenging position to contribute technical expertise and collaborate effectively in a dynamic software development team. Proficient in Java, HTML, CSS, JavaScript, React, NodeJs, SQL. Strong communication and teamwork abilities. I am looking for full-stack development role.
+
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Backend Development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in fullstack development.
