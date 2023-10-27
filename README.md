@@ -6,7 +6,7 @@ I am a software developer with 1.5 years of full-stack development experience. S
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Backend Development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in fullstack development.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in  fullstack development. 
+- 👍 Looking for opportunities to join as an part time / full time in  fullstack development. 
 - 🌐 Visit my [porfolio website](https://rashidmakki.netlify.app/) for complete background and contact.
 
 **Languages and Tools:**  
